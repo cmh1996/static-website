@@ -1,0 +1,7 @@
+@charset "UTF-8";
+.banner .left{
+  background-image: url(../img/hobby-banner.jpg);
+}
+.banner .center{
+  background-image: url(../img/hobby-banner2.jpg);
+}
